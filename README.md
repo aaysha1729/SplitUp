@@ -444,7 +444,7 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-- **Email**: aayshasinha5@gmail.com
+- **Email**: aayshaaasinha@gmail.com
 - **GitHub**: [@aaysha1729](https://github.com/aaysha1729)
 
 ---
